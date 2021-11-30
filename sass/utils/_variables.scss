@@ -1,0 +1,16 @@
+:root {
+	--accent-color: #2196f3;
+	--primary-text-color: #212121;
+	--secondary-text-color: #757575;
+	--header-accent-color: #000000;
+	--dark-side-color: #ffffff;
+	--primary-color: #e5e5e5;
+}
+
+.list {
+	list-style: none;
+}
+.link {
+	text-decoration: none;
+	color: var(--accent-color);
+}
